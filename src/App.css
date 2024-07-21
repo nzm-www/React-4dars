@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+}
+body {
+  background: #e3e3e3;
+  font-family: "Circular Std", sans-serif;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+main {
+  flex-grow: 1;
+}
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 120px;
+  padding-left: 120px;
+  padding-top: 16px;
+}
